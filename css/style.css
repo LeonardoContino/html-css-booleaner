@@ -50,3 +50,7 @@ h1{
 #text-giallo{
     background-color: yellow;
 }
+.lista{
+  padding: 0;
+  margin: 0;
+}
