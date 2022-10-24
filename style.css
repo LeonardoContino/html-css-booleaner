@@ -6,7 +6,8 @@ body{
 
 .titolo{
     background-image: url(img/pattern.png);
-    background-color: blue;
+    background-position: center;
+    background-color: rgba(38, 90, 168, 0.784);
     font-size: 25px;
     margin-top: 0%;
     color: white;
@@ -21,4 +22,7 @@ h3{
 }
 #titolo-booleaner{
     margin-top: 0px;
+}
+h1{
+    font-size: 50px;
 }
