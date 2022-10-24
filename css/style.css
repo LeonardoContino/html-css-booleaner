@@ -5,7 +5,7 @@ body{
 
 
 .titolo{
-    background-image: url(img/pattern.png);
+    background-image: url(../img/pattern.png);
     background-position: center;
     background-color: rgba(38, 90, 168, 0.784);
     font-size: 25px;
@@ -42,4 +42,11 @@ h1{
 #data{
     margin-top: 5px;
     color:  rgb(167, 160, 160);;
+}
+#text-immagini{
+    margin: 0px;
+
+}
+#text-giallo{
+    background-color: yellow;
 }
