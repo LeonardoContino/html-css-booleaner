@@ -14,7 +14,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
     height: 150px;
 }
-h3{
+#titolo-the{
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 20px;
@@ -25,4 +25,21 @@ h3{
 }
 h1{
     font-size: 50px;
+}
+#titolo-tim{
+    margin-bottom: 0px;
+}
+#sottotitolo{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(167, 160, 160);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.text-blu{
+    color: rgb(0, 153, 255);
+}
+#data{
+    margin-top: 5px;
+    color:  rgb(167, 160, 160);;
 }
