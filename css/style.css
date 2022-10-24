@@ -55,3 +55,15 @@ h1{
   margin: 0;
   margin-bottom: 10px;
 }
+.tabella-titolo{
+    background-color: blue;
+    color: white;
+    height: 20px;
+    text-align: left;
+    line-height: 15px;
+}
+.corpo-tabella{
+    background-color: rgb(175, 208, 238);
+}#colortable{
+    background-color: white;
+}
