@@ -1,0 +1,102 @@
+
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+}
+
+.titolo{
+    background-image: url(../bonus/img/pattern.png);
+    background-position: center;
+    background-color: rgba(38, 90, 168, 0.784);
+    font-size: 25px;
+    margin-top: 0%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    height: 150px;
+}
+#titolo-the{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+#titolo-booleaner{
+    margin-top: 0px;
+}
+h1{
+    font-size: 50px;
+}
+#titolo-tim{
+    margin-bottom: 0px;
+}
+#sottotitolo{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(167, 160, 160);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.text-blu{
+    color: rgb(0, 153, 255);
+}
+#data{
+    margin-top: 5px;
+    color:  rgb(167, 160, 160);;
+}
+#text-immagini{
+    margin: 0px;
+
+}
+.text-giallo{
+    background-color: yellow;
+}
+.lista{
+  padding: 0;
+  margin: 0;
+  margin-bottom: 10px;
+}
+.table{
+    border-spacing: 0;
+}
+.tabella-titolo{
+    background-color: blue;
+    color: white;
+    height: 20px;
+    text-align: left;
+    line-height: 15px;
+}    
+
+.corpo-tabella{
+    background-color: rgb(175, 208, 238);
+}#colortable{
+    background-color: white;
+}
+.colonna-testo{
+    width: 60%;
+}
+h2{
+    color: rgba(128, 128, 128, 0.632);
+}
+.testo-immagine{
+    background-image: url(../bonus/img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150px;
+    color: white;
+    font-size: 30px;
+    padding: 15px;
+    margin-bottom: 5px;
+      
+}
+.testo-immagine2{
+    background-image: url(../bonus/img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150px;
+    color: white;
+    font-size: 30px;
+    padding: 15px;
+    margin-top: 5px;
+
+}
